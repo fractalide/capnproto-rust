@@ -1,6 +1,6 @@
 [root]
 name = "capnp"
-version = "0.6.0"
+version = "0.6.2"
 dependencies = [
  "byteorder 0.4.2 (registry+https://github.com/rust-lang/crates.io-index)",
  "gj 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
